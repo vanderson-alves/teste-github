@@ -35,3 +35,34 @@ _Trabalhando com **branches**._
 >Este é um blockquote, usado para destacar alguma área.
 >
 >Segunda área destacada
+
+Comando para rodar o projeto:
+
+```
+npm start 
+
+```
+
+**Exemplo de uso do script:**
+```js
+function showName(name){
+    return 'Bem vindo: '+ name:'
+}
+
+```
+**Uso do componente HTML:**
+```html
+<h1>
+    Título do projeto
+    <span>Curso GIT<span>
+</h1>
+```
+
+**CSS padrão do projeto:**
+```css
+    .titulo {
+        background-color: #FFF;
+        color: #FF0000;
+    }
+```
+
