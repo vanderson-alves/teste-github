@@ -3,6 +3,12 @@
 # Bem vindo ao teste de Git e Github
 Nesse repositório estou testando as funcionalidades do **Git** e **Github** _do zero ao avançado._
 
+**Últimas updates:**
+- [x] Site responsivo.
+- [ ] Login com Facebook.
+- [ ] Página sobre a empresa
+
+
 ## Módulos:
 _Entendendo o que é **git**_
 
