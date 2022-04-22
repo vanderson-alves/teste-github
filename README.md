@@ -1,5 +1,10 @@
 ![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
+[Bem vindo](#bem-vindo-ao-teste-de-git-e-github) |
+[Módulos](#módulos) |
+[Rede Social](#rede-social) |
+[Comandos](#comando-para-rodar-o-projeto)
+
 # Bem vindo ao teste de Git e Github
 Nesse repositório estou testando as funcionalidades do **Git** e **Github** _do zero ao avançado._
 
@@ -42,7 +47,7 @@ _Trabalhando com **branches**._
 >
 >Segunda área destacada
 
-Comando para rodar o projeto:
+### Comando para rodar o projeto:
 
 ```
 npm start 
@@ -77,4 +82,4 @@ Propriedade | Descrição
 name | Para informar o nome do usuário
 size | Para definir o tamanho do campo
 background | Cor de fundo da área em HEX
-onPress | Função chamada quando clicar no botão
+onPress | Função chamada quando clicar no botão*
