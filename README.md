@@ -10,6 +10,23 @@ _Aprendendo sobre **repositórios**_
 
 _Trabalhando com **branches**._
 
+## Módulos 2:
+* _Começando com **git**._
+
+* _Aprendendo sobre **branches**._
+
+* _Git **avançado**._
+
+* _Usando **Github** de forma profissional._
+
+1. Começando com GIT.       
+    1. O que é GIT?
+    2. Instalando GIT na máquina
+2. Aprendendo sobre branches.
+3. Git avançado.
+4. Usando Github de forma profissional.
+
+
 ### Rede social:
 [Instagram](https://instagram.com)
 
